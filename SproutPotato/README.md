@@ -15,9 +15,9 @@
 2021년 9월 ~ 2021년 11월
 
 ## 🗓스터디 일정
-|week|content|
-|------|-------|
-|9월 4주|구현|
+|week|content|code|
+|------|-------|------|
+|9월 4주|구현| <a href="https://github.com/hijyun/algorithm/blob/master/SproutPotato/ex4-1.py">ex4-1</a>
 |10월 1주|그리디, 스택|
 |10월 2주|DFS/BFS|
 |10월 3주|정렬|

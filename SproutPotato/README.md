@@ -1,20 +1,20 @@
-# 2021-2학기 싹튼 감자반 코테 2팀
-감자튀김이 되는 그날 까지..천천히 튀겨지는 중
+# 2021-2학기 싹 튼 감자반 코테 2팀
+감자튀김🍟이 되는 그날 까지..천천히 튀겨지는 중
 
-## 싹튼 감자들
+## 🥔 싹 튼 감자들
 
   <a  href= "https://github.com/hijyun"><img src="https://avatars.githubusercontent.com/u/54613024?v=4" width=100px ></a> <a style = "float:left; margin-right:10px;" href= "https://github.com/sm022"><img src="https://avatars.githubusercontent.com/u/77651050?v=4" width=100px></a> <a style = "float:left; margin-right:10px;" href= "https://github.com/Soooyeon-Kim"><img src="https://avatars.githubusercontent.com/u/83583349?v=4" width=100px></a> 
 
 <a style = "float:left; margin-right:10px;" href= "https://github.com/JUHYUN030"><img src="https://avatars.githubusercontent.com/u/64799496?v=4" width=100px></a> <a style = "float:left; margin-right:10px;" href= "https://github.com/weeejee"><img src="https://avatars.githubusercontent.com/u/90193718?v=4" width=100px></a>
 
-## 📝스터디 방법
+## 📝 스터디 방법
 매 주 정해진 분량의 알고리즘 개념을 공부하고, 주1회 zoom으로 만나서 제한 시간 동안 알고리즘 문제를 푼다.
 서로의 풀이를 비교하고, 코드를 리뷰하는 시간을 갖는다.
 
-## 📅스터디 기간
+## 📅 스터디 기간
 2021년 9월 ~ 2021년 11월
 
-## 🗓스터디 일정
+## 🗓 스터디 일정
 |주차|내용|함께 풀어본 문제|
 |------|-------|------|
 |9월 4주|구현| <a href="https://github.com/hijyun/algorithm/blob/master/SproutPotato/ex4-1.py">ex4-1</a>
@@ -26,7 +26,7 @@
 |11월 2주|최단 경로|
 |11월 3주|그래프 이론|
 
-## 📔BOOK
+## 📔 BOOK
 이것이 취업을 위한 코딩테스트다. with 파이썬
 <div style = align:"left">
 <a href= "http://www.yes24.com/Product/Goods/91433923"><img src="https://user-images.githubusercontent.com/54613024/135274627-b7f46902-205f-42b3-8553-453de787372a.png"  width="300" height="400">

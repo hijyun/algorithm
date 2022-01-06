@@ -6,9 +6,9 @@
 
 
 # 목차
-<a href="https://github.com/hijyun/algorithm/blob/master/course/Intro-to-Algorithm.md">알고리즘 분석 설계 기초</a>
-
- <a href="https://github.com/hijyun/algorithm/blob/master/course/Complexity.md">복잡도</a>
+* <a href="https://github.com/hijyun/algorithm/blob/master/course/Intro-to-Algorithm.md">알고리즘 분석 설계 기초</a>
+* <a href="https://github.com/hijyun/algorithm/blob/master/course/Complexity.md">복잡도</a>
+* <a href="https://github.com/hijyun/algorithm/blob/master/course/Sorting.md">정렬</a>
 
 
 

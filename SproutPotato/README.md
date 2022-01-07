@@ -18,11 +18,11 @@
 ## 🗓 스터디 내용
 |내용|관련 문제|
 |------|-------|
-|구현|<a herf="https://github.com/hijyun/algorithm/blob/master/SproutPotato/ex4-1.py">4-1</a>, <a herf="https://github.com/hijyun/algorithm/blob/master/SproutPotato/ex4-2.py">4-2</a>|
-|그리디, 스택|<a herf="https://github.com/hijyun/algorithm/blob/master/SproutPotato/ex3-2.py">3-2</a>, <a herf="https://github.com/hijyun/algorithm/blob/master/SproutPotato/ex3-3.py">3-3</a>, <a herf="https://github.com/hijyun/algorithm/blob/master/SproutPotato/ex3-4.py">3-4</a>|
-|DFS/BFS||
-|정렬|<a herf="https://github.com/hijyun/algorithm/blob/master/SproutPotato/ex6-10.py">6-10</a>, <a herf="https://github.com/hijyun/algorithm/blob/master/SproutPotato/ex6-11.py">6-11</a>, <a herf="https://github.com/hijyun/algorithm/blob/master/SproutPotato/ex6-12.py">6-12</a>|
-|이진탐색|<a herf="https://github.com/hijyun/algorithm/blob/master/SproutPotato/ex7-1.py">7-1</a>, <a herf="https://github.com/hijyun/algorithm/blob/master/SproutPotato/ex7-2.py">7-2</a>, <a herf="https://github.com/hijyun/algorithm/blob/master/SproutPotato/ex7-3.py">7-3</a>, <a herf="https://github.com/hijyun/algorithm/blob/master/SproutPotato/ex7-4.py">7-4</a>, <a herf="https://github.com/hijyun/algorithm/blob/master/SproutPotato/ex7-5.py">7-5</a>, <a herf="https://github.com/hijyun/algorithm/blob/master/SproutPotato/ex7-6.py">7-6</a>, <a herf="https://github.com/hijyun/algorithm/blob/master/SproutPotato/ex7-7.py">7-7</a>, <a herf="https://github.com/hijyun/algorithm/blob/master/SproutPotato/ex7-8.py">7-8</a>|
+|구현|4-1, 4-2|
+|그리디, 스택|3-2, 3-3, 3-4|
+|DFS/BFS|5-5, 5-8, 5-9, 5-10, 5-11|
+|정렬|6-10, 6-11, 6-12|
+|이진탐색|7-1, 7-2, 7-3, 7-4, 7-5, 7-6, 7-7, 7-8|
 |다이나믹 프로그래밍||
 |최단 경로||
 |그래프 이론||

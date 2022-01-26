@@ -112,3 +112,6 @@ fabric.properties
 
 # jupyter notebook
 .ipynb
+
+# etc
+ignore

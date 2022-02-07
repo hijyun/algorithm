@@ -36,7 +36,8 @@
 
 
 # 🌈 현재 목표 
-* 2022년 3월까지 백준 40단계
+* 2022년 3월까지 [백준](https://github.com/hijyun/algorithm/tree/master/BaekJoon) 40단계
+* [✍🏻 자세한 풀이 과정 기록](https://newtoner.tistory.com/category/Algorithm)
 
 <br>
 

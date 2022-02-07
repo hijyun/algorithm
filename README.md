@@ -28,7 +28,7 @@
 
 
 [🔗](https://github.com/hijyun/algorithm/tree/master/course)**course**
-: 2021.09~2021.12
+: 2021~ing
 <br>
 알고리즘 학교 수업, 책 등 공부 기록
 

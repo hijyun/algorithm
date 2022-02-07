@@ -13,10 +13,12 @@
 * <a href="https://github.com/hijyun/algorithm/blob/master/course/Complexity.md">복잡도</a>
 * <a href="https://github.com/hijyun/algorithm/blob/master/course/Sorting.md">정렬</a>
 * <a href="https://github.com/hijyun/algorithm/blob/master/course/Search.md">탐색</a>
+* <a href="https://github.com/hijyun/algorithm/blob/master/course/Recursion.md">재귀</a>
+
 <br>
 
 # 공부 기록
-[🔗](https://github.com/hijyun/algorithm/tree/master/outlier)**outlier**
+[🔗**outlier**](https://github.com/hijyun/algorithm/tree/master/outlier)
 : 2021.03~06
 <br>
 정보통계학과 동아리 outlier 말하는 감자반에서 진행한 알고리즘 스터디

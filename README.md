@@ -14,6 +14,8 @@
 * <a href="https://github.com/hijyun/algorithm/blob/master/course/Sorting.md">정렬</a>
 * <a href="https://github.com/hijyun/algorithm/blob/master/course/Search.md">탐색</a>
 * <a href="https://github.com/hijyun/algorithm/blob/master/course/Recursion.md">재귀</a>
+* 문자열 검색
+    * <a href="https://github.com/hijyun/algorithm/blob/master/course/brute-force-method.md">브루트 포스법</a>
 
 <br>
 
@@ -23,13 +25,13 @@
 <br>
 정보통계학과 동아리 outlier 말하는 감자반에서 진행한 알고리즘 스터디
 
-[🔗](https://github.com/hijyun/algorithm/tree/master/SproutPotato)**SproutPotato싹튼 감자반**
+[🔗**SproutPotato싹튼 감자반**](https://github.com/hijyun/algorithm/tree/master/SproutPotato)
 : 2021.09~2021.12
 <br>
 정보통계학과 동아리 outlier 싹 튼 감자반과 함께한 알고리즘 스터디
 
 
-[🔗](https://github.com/hijyun/algorithm/tree/master/course)**course**
+[🔗**course**](https://github.com/hijyun/algorithm/tree/master/course)
 : 2021~ing
 <br>
 알고리즘 학교 수업, 책 등 공부 기록

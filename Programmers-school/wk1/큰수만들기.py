@@ -10,3 +10,8 @@ def solution(number, k):
         stack.append(i)
     answer = ''.join(stack)
     return answer
+
+
+# 정확성이 91점
+# k번 숫자가 제거되지 않는 경우에 대한 처리가 필요함
+# 제거되지 않은 만큼 stack을 비우거나 슬라이싱 해야함

@@ -1,6 +1,7 @@
 def solution(n, lost, reserve):
-    reserve = set(reserve) - set(lost)
-    lost = set(lost) - set(reserve)
+    s = set(lost) & set(reserve)
+    reserve = set(reserve) - s
+    lost = set(lost) - s
     for i in reserve:
         if i - 1 in lost:
             lost.remove(i - 1)

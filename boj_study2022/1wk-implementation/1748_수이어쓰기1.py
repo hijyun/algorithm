@@ -1,5 +1,10 @@
-n = int(input())
-answer = ''
-for i in range(1, n + 1):
-    answer += str(i)
-print(len(answer))
+n = input()
+length = len(n) - 1
+result = 0
+
+for i in range(length):
+    result += 9 * (10 ** i) * (i + 1)
+
+result += ((int(n) - (10 ** length)) + 1) * (length + 1)
+
+print(result)

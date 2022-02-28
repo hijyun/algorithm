@@ -2,7 +2,6 @@
 * 알고리즘 분류 : 구현
 
 <br>
-<br>
 
 # 문제집
 
@@ -16,3 +15,11 @@
 |2/15|10773|제로|:white_check_mark:|
 |2/15|11866|요세푸스 문제 0|:white_check_mark:|
 |2/15|2108|통계학|:white_check_mark:|
+|2/18|1475|방번호|:white_check_mark:|
+|2/18|11723|집합|:white_check_mark:|
+|2/18|14891|톱니바퀴|-|
+|2/18|2960|에라토스테네스의 체|:white_check_mark:|
+|2/18|1292|쉽게 푸는 문제|:white_check_mark:|
+|2/18|2504|괄호의 값|:white_check_mark:|
+|2/18|1748|수 이어 쓰기 1|:white_check_mark:|
+|2/18|1120|문자열|:white_check_mark:|
